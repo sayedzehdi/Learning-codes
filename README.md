@@ -1,2 +1,4 @@
 # Learning-codes
-This is my second reporsitory
+This is my second repository.
+This is my first commit.
+This is the second commit.
